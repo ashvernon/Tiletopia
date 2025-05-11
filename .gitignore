@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Map saves (optional)
+*.json
+
+# Logs or debug files (if any)
+*.log
+
+# PyInstaller
+dist/
+build/
+*.spec
