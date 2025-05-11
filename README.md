@@ -37,24 +37,19 @@ Tiletopia is a casual 2D top-down city builder built in Pygame. It features dyna
 ```bash
 git clone https://github.com/YOUR_USERNAME/Tiletopia.git
 cd Tiletopia
+
 2. Create and activate virtual environment
-bash
-Copy
-Edit
 python -m venv venv
 .\venv\Scripts\Activate.ps1        # PowerShell
 # OR
 venv\Scripts\activate.bat          # CMD
+
 3. Install requirements
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 🚀 Run the Game
-bash
-Copy
-Edit
 python src/main.py
+
 📁 Project Structure
 arduino
 Copy
